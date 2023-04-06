@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.planets-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/planets-app/planets-bg-img.png');
+  background-size: cover;
+  /* background-attachment: fixed; */
+  /* background-repeat: no-repeat; */
+  /* height: 100vh; */
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  /* align-items: center; */
+}
